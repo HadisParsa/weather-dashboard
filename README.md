@@ -25,12 +25,13 @@ Responsive design features by using a Bootstrap layout.
 
 
 ## Link
-You can experience the deployed project here: [ ]( ).
+You can experience the deployed project here: [https://hadisparsa.github.io/weather-dashboard/](https://hadisparsa.github.io/weather-dashboard/).
 
 ## The following image shows the web application's appearance and functionality:
     
-![screenshot](Assets/images/image1.jpg)
+    
+![screenshot](assets/images/image1.jpg)
 
-![screenshoot](Assets/images/image2.jpg)
+![screenshoot](assets/images/image2.jpg)
 
 
